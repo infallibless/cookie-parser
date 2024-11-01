@@ -12,7 +12,7 @@
 
 Ensure you have [Node.js](https://nodejs.org/) installed. Then, clone this repository or download the ZIP file:
 
-[Download CookieParser](https://github.com/yourusername/CookieParser/archive/refs/heads/main.zip)
+[Download CookieParser](https://github.com/infalibless/cookie-parser/archive/refs/heads/main.zip)
 
 ## Usage
 
